@@ -1,0 +1,41 @@
+[
+    {
+        "make": "Burton Menswear London",
+        "name": "Print T-shirt",
+        "color": "white",
+        "price": 16,
+        "size": [
+            "small",
+            "medium",
+            "large",
+            "x-large"
+        ],
+        "details": {
+            "length": "standard",
+            "fit": "normal",
+            "fabric": "jersey",
+            "Neckline": "Crew neck",
+            "Total length": "28.0\"  (Size M)"
+        }
+    },
+    {
+        "make": "ONLY",
+        "name": "ONLNEW - Slim fit jeans",
+        "color": "black olive",
+        "price": 30,
+        "size": [
+            "x-small",
+            "small",
+            "medium",
+            "large",
+            "x-large"
+        ],
+        "details": {
+            "length": "long",
+            "fit": "normal",
+            "Pockets": "Back pocket",
+            "outer leg length": "40.0\" (Size S)",
+            "inner leg length": "31.5\" (Size S)"
+        }
+    }
+]

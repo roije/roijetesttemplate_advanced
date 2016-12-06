@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Claus",
+        "lastName": "Bové",
+        "address": "Svanemøllevej 56",
+        "phone": "004512345678",
+        "email": "clbo@kea.dk"
+    },
+    {
+        "name": "Anna",
+        "lastName": "Messner",
+        "address": "Lygten 16",
+        "phone": "004512345678",
+        "email": "anna@stud.kea.dk"
+    }
+]
